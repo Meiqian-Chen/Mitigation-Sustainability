@@ -1,0 +1,1 @@
+The Mitigation&Sustainability.zip file consists of the data and codes used to produce the results of the manuscript entitled “A cost-effective climate pathway for China with co-benefits for sustainability”.
